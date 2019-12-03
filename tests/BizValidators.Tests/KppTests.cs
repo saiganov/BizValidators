@@ -1,8 +1,7 @@
-using BizValidators;
 using NUnit.Framework;
 using Shouldly;
 
-namespace Tests
+namespace BizValidators.Tests
 {
     [TestFixture]
     public class KppTests

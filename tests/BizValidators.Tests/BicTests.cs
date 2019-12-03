@@ -1,9 +1,7 @@
-using BizValidators;
-using Core;
 using NUnit.Framework;
 using Shouldly;
 
-namespace Tests
+namespace BizValidators.Tests
 {
     public class BicTests
     {

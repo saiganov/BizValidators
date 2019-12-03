@@ -1,0 +1,15 @@
+<Project>
+<PropertyGroup>
+    <Title>BizValidators</Title>
+    <Description>Validators for TIN, Registration number, KPP, KIO, etc</Description>
+    <Authors>Vasiliy Sayganov</Authors>
+    <PackageProjectUrl>https://github.com/saiganov/BizValidators</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/saiganov/BizValidators/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/saiganov/BizValidators</RepositoryUrl>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <Company>Vasiliy Sayganov</Company>
+    <Version>1.0.0</Version>
+    <AssemblyTitle>BizValidators</AssemblyTitle>
+</PropertyGroup>
+</Project>  

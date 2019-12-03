@@ -1,8 +1,6 @@
-using BizValidators;
-using Core;
 using NUnit.Framework;
 
-namespace Tests
+namespace BizValidators.Tests
 {
     [TestFixture]
     public class OkpoEnterpriseTests
